@@ -1,0 +1,111 @@
+Jakarta
+Tokyo
+Helsinki
+Bucuresti
+Praga
+Madrid
+Abu Dhabi	 
+Abuja		
+Alger	  
+Amman 
+Amsterdam
+Haga
+Andorra la Vella		
+Ankara	
+Apia
+Asmara
+Atena
+Bagdad
+Baku
+Bangkok		
+Beijing	
+Beirut	
+Belgrad	
+Belmopan
+Berlin	
+Berna
+Bissau		
+Bogotá	
+Brasília
+Bratislava	
+Bridgetown
+Bruxelles
+Budapesta
+Buenos Aires
+Cairo	
+Canberra
+Caracas
+Chisinau	
+Ciudad de Guatemala	
+Copenhaga
+Dakar	
+Damasc
+Djibouti
+Harare
+Havana
+Helsinki
+Ierusalim	
+Islamabad
+Jakarta	
+Kiev
+Kingston	
+Lima
+Lisabona
+Ljubljana
+Londra
+Luanda	
+Luxemburg	
+Madrid	
+Majuro
+Malabo	
+Managua
+Manama	
+Manila	
+Minsk	
+Mogadishu
+Monaco
+Moscova
+N'Djamena
+Nairobi
+New Delhi
+Paris	
+Phenian
+Port-au-Prince	
+Praga	
+Praia
+San Juan
+San Marino
+San Salvador
+Santo Domingo	
+Sarajevo
+Seul
+Singapore
+Skopje	
+Sofia
+Colombo	
+St. George's
+St. John's	
+Stanley
+Stepanakert
+Stockholm
+Sucre
+La Paz	
+Suhumi
+Suva	
+Taipei
+Tallinn
+Taskent
+Tegucigalpa
+The Valley
+Thimphu
+Tokyo
+Tórshavn
+Tripoli
+Tunis	
+Ulaanbaatar	
+Vaduz
+Valletta
+Varșovia	
+Vatican
+Viena
+Vilnius

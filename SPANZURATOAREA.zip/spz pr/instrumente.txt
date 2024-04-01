@@ -1,0 +1,37 @@
+Chitara
+Pian
+Orga
+Trombon
+Trompeta
+Vioara
+Violoncel
+Muzicuta
+flaut
+lauta
+teorba
+vihuela
+ukulele
+mandolina
+cobza
+banjo
+bouzouki
+harpa
+clavecin
+viola
+contrabas
+baryton
+clavicord
+tambal
+fluier
+clarinet
+fagot
+saxofon
+cimpoi
+nai
+acordeon
+xilofon
+clopot
+trianglu
+tamburina
+toba mare
+toba mica
